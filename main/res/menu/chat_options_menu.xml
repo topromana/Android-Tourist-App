@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chatOptionsDesign1"
+        android:title="@string/chatOptionsDesign1" />
+    <item
+        android:id="@+id/chatOptionsDesign2"
+        android:title="@string/chatOptionsDesign2" />
+    <item
+        android:id="@+id/chatOptionsMenuBothDesigns"
+        android:title="@string/chatOptionsMenuBothDesigns" />
+</menu>

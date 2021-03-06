@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/offersOptionsSignOut"
+        android:title="@string/offersOptionsSignOut"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/offersOptionsResetList"
+        android:title="@string/offersOptionsResetList"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/offersOptionsClearFavourites"
+        android:title="@string/offersOptionsClearFavourites"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/chatWithUs"
+        android:title="Chat with us!"
+        app:showAsAction="never" />
+</menu>

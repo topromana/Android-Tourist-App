@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CalaTour</string>
+    <string name="usernameLabel">Username</string>
+    <string name="passwordLabel">Password</string>
+    <string name="signinButton">Sign in</string>
+    <string name="offersMenuAddOffer">Add offer</string>
+    <string name="offersMenuRemoveOffer">Remove offer</string>
+    <string name="offersOptionsSignOut">Sign Out</string>
+    <string name="offersOptionsResetList">Reset List</string>
+    <string name="offersOptionsClearFavourites">Clear Favourites</string>
+    <string name="offersAddToFavourites">Add to Favourites</string>
+    <string name="labelFrom">From</string>
+    <string name="labelOn">on</string>
+    <string name="sendButtonLabel">Send</string>
+    <string name="labelUsername">Username:</string>
+    <string name="chatOptionsMenuBothDesigns">Both Designs</string>
+    <string name="chatOptionsDesign1">Design 1</string>
+    <string name="chatOptionsDesign2">Design 2</string>
+</resources>
